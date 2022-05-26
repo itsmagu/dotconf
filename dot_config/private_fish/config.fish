@@ -4,6 +4,3 @@ end
 set fish_greeting
 
 setxkbmap se -option 'caps:escape'
-
-set PNPM_HOME "/home/$(whoami)/.local/share/pnpm"
-set PATH "$PATH:$PNPM_HOME"
